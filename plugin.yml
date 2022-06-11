@@ -1,0 +1,9 @@
+name: BannerOnHead
+description: A simple plugin that allows you to put a banner on your head
+version: 1.0
+author: omni_keycard
+main: bannerOnHead.Plugin
+
+commands:
+    wear:
+        usage: /wear
