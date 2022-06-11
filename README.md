@@ -4,11 +4,11 @@
  Command — `/wear` (with a flag in his hand)
  Команда — `/wear` (с флагом в руке)
  
-Config // Конфиг:
+Configuration // Конфигурация:
 ```
-message-remove-the-hat: §cIt is impossible to put on a banner, first take off your hat # Сообщение, когда у игрока на голове уже находится шлем / другой флаг
-message-done: §aDone! You can remove the banner from the inventory # Сообщение при успешном одевании баннера на голову
-message-take-flag-in-hand: §cFirst, take the flag in your hand! # Когда не удалось обнаружить флаг в руке
+message-remove-the-hat: §cIt is impossible to put on a banner, first take off your hat
+message-done: §aDone! You can remove the banner from the inventory
+message-take-flag-in-hand: §cFirst, take the flag in your hand!
 ```
 
 Настройки конфигурации на русском (скопировать всё что ниже и вставить в файл `config.yml`):
