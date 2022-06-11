@@ -1,8 +1,7 @@
 # Banner On Head
  A simple plugin that allows you to put a banner on your head // Простой плагин, позволяющий надеть баннер на голову
  
- Command — `/wear` (with a flag in his hand)
- Команда — `/wear` (с флагом в руке)
+Command — `/wear` (with a flag in his hand) // Команда — `/wear` (с флагом в руке)
  
 Configuration // Конфигурация:
 ```
