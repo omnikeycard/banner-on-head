@@ -19,7 +19,7 @@ public class Plugin extends JavaPlugin {
 		saveDefaultConfig();
 		FileConfiguration cfg = this.getConfig();
 		
-		message_remove_the_hat = cfg.getString("message-remove-the-helmet");
+		message_remove_the_hat = cfg.getString("message-remove-the-hat");
 		message_done = cfg.getString("message-done");
 		message_take_flag_in_hand = cfg.getString("message-take-flag-in-hand");
 		
