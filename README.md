@@ -1,9 +1,11 @@
 # Banner On Head
  A simple plugin that allows you to put a banner on your head // Простой плагин, позволяющий надеть баннер на голову
  
+## Using // Использование
+ 
 Command — `/wear` (with a flag in his hand) // Команда — `/wear` (с флагом в руке)
  
-Configuration // Конфигурация:
+## Configuration // Конфигурация:
 ```
 message-remove-the-hat: §cIt is impossible to put on a banner, first take off your hat
 message-done: §aDone! You can remove the banner from the inventory
