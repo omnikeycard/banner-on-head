@@ -3,7 +3,7 @@
  
 ## Using // Использование
  
-Command — `/wear` (with a flag in his hand) // Команда — `/wear` (с флагом в руке)
+Command — `/hat` (with a flag in his hand) // Команда — `/hat` (с флагом в руке)
  
 ## Configuration // Конфигурация:
 ```
