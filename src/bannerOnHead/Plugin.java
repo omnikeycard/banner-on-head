@@ -30,7 +30,7 @@ public class Plugin extends JavaPlugin {
 	public boolean onCommand(CommandSender s, Command cmd, String label, String[] args) {
 		Player author = (Player) s;
 		
-		if(cmd.getName().equals("wear")) {
+		if(cmd.getName().equals("hat")) {
 			PlayerInventory inventory = author.getInventory();
 			if(inventory.getHelmet() != null) {
 				author.sendMessage(message_remove_the_hat);
