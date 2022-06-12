@@ -5,5 +5,5 @@ author: omni_keycard
 main: bannerOnHead.Plugin
 
 commands:
-    wear:
-        usage: /wear
+    hat:
+        usage: /hat
